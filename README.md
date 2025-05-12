@@ -19,7 +19,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/deekshith-sripadhi-5a922428b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshithsripadhi@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deekshith-sripadhi-5a922428b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekshithsripadhi@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=SripadhiDeekshith&icon=5&color=0)](https://visitcount.itsvg.in)
 
