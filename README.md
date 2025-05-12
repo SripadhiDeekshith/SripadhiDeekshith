@@ -1,5 +1,5 @@
 ## Hi! This is Deekshith 💫
-🎓 Computer Science and Engineering graduate from MVSR
+🎓 Computer Science and Engineering graduate from MVSR <br>
 💡 Interested in AI/ML, Software Engineering,Data Structures & Algorithms
 🛠️ Skilled in Python, C/C++, Java, AWS, and SQL
 📊 Built projects in sentiment analysis and cloud-hosted web applications
