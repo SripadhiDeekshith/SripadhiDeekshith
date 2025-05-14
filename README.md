@@ -11,9 +11,9 @@
 <h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SripadhiDeekshith&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SripadhiDeekshith&theme=github_dark_dimmed&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SripadhiDeekshith&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+![](https://github-readme-stats.vercel.app/api?username=SripadhiDeekshith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SripadhiDeekshith&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SripadhiDeekshith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 
@@ -24,3 +24,14 @@
 [![](https://visitcount.itsvg.in/api?id=SripadhiDeekshith&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SripadhiDeekshith&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SripadhiDeekshith&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SripadhiDeekshith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SripadhiDeekshith&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
